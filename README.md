@@ -1,14 +1,9 @@
 # Conjunto de datasets públicos
 
+## Brasil
 - ANAC
 - INMET
-- IBGE https://servicodados.ibge.gov.br/api/docs/localidades
-
-- [dados meteorológicos](/brasil/estacoes/inmet_foz_21_23.json)
-
-## APIs
-
-
+- IBGE 
 
 ## Comandos bash
 
