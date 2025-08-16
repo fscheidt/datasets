@@ -7,5 +7,15 @@
 
 ## Comandos bash
 
-- `file -i <file>` -- verificar o encoding do arquivo
-- `sed -i 's/StringText/Text/g' filename.json` -- substituir StringText por Text
+
+Verificar o encoding do arquivo
+
+```bash
+file -i <file>
+```
+
+Substituir StringText por Text
+
+```bash
+sed -i 's/StringText/Text/g' filename.json
+``` 
