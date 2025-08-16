@@ -10,6 +10,7 @@
 ## APIs
 
 - https://servicodados.ibge.gov.br/api/docs/localidades
+- https://github.com/finmetrik/geo-locations
 
 ## Comandos
 - `file -i <file>` -- verificar o encoding do arquivo
